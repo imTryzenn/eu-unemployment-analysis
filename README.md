@@ -21,3 +21,10 @@ This project analyzes unemployment rates across European countries using Google 
 - unemployment-data.xlsx
 - bar-chart.png
 - data-table.png
+- ## Final Table
+
+![Final Table](table.png)
+
+## Visualization
+
+![Bar Chart](bar-chart.png)
